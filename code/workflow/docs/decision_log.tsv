@@ -1,0 +1,6 @@
+decision_id	date	module	decision	options_considered	chosen_option	rationale	supporting_file	limitations	revisit_trigger
+D01		1	Reference accession and haplotype selection						
+D02		1	Primary annotation source	NCBI native; reannotation	Provisional native NCBI	Begin with supplied annotation; revisit after QC		Annotation methods may differ	Annotation BUSCO or gene-model discrepancies
+D03		2	BUSCO lineage and release						
+D04		2	Annotation comparability threshold/criteria						
+D05		2	Whether to reannotate one or all references						

@@ -1,0 +1,4 @@
+species	accession	genome	gff3	protein	cds	rna	sequence_report
+trossulus	GCF_036588685.1	/absolute/path/to/GCF_036588685.1/genomic.fna	/absolute/path/to/GCF_036588685.1/genomic.gff	/absolute/path/to/GCF_036588685.1/protein.faa			
+galloprovincialis	GCF_965363235.1	/absolute/path/to/GCF_965363235.1/genomic.fna	/absolute/path/to/GCF_965363235.1/genomic.gff	/absolute/path/to/GCF_965363235.1/protein.faa			
+edulis	GCF_963676685.1	/absolute/path/to/GCF_963676685.1/genomic.fna	/absolute/path/to/GCF_963676685.1/genomic.gff	/absolute/path/to/GCF_963676685.1/protein.faa			
