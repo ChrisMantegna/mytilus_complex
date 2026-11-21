@@ -1,0 +1,2 @@
+species	accession	genome	gff3	protein	cds	rna	sequence_report
+fixture	GCF_TEST.1	/mnt/data/mytilus_modules_01_02_bash_R/tests/fixture/genomic.fna	/mnt/data/mytilus_modules_01_02_bash_R/tests/fixture/genomic.gff	/mnt/data/mytilus_modules_01_02_bash_R/tests/fixture/protein.faa			
